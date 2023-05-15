@@ -12,12 +12,14 @@ const ReactTable = () => {
   // Using the hook
   const { data, error, isLoading } = useQuery("Products", getProducts);
 
+  console.log(data);
+
   const columns = useMemo(
     () => [
       {
         Header: "Products",
         columns: [
-          { Header: "Product", accessor: "name" },
+          { Header: "Product", accessor: "product" },
           { Header: "Brand", accessor: "brand" },
           { Header: "Price", accessor: "price" },
           { Header: "Category", accessor: "category" },
