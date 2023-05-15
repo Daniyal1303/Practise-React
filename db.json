@@ -1,0 +1,67 @@
+{
+  "login": [
+    {
+      "email": "danish@gmail.com",
+      "password": "Danish123",
+      "id": 1
+    }
+  ],
+  "signup": [
+    {
+      "username": "Danish",
+      "email": "danish@gmail.com",
+      "password": "Danish123",
+      "id": 1
+    },
+    {
+      "username": "Bilal Khan",
+      "email": "bilal12@gmail.com",
+      "password": "Bilal123",
+      "id": 2
+    },
+    {
+      "username": "Salman",
+      "email": "salman12@gmail.com",
+      "password": "Salman123",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "product": "Infinix note 8",
+      "brand": "Inifinix",
+      "price": 16,
+      "category": "PH",
+      "weight": 1,
+      "description": "Infinix is China manfacturing company.",
+      "id": 1
+    },
+    {
+      "product": "Oppo v8",
+      "brand": "Oppo",
+      "price": 16,
+      "category": "PH",
+      "weight": 1,
+      "description": "Oppo is China manfacturing company.",
+      "id": 2
+    },
+    {
+      "product": "Samsung note 8",
+      "brand": "Samsung",
+      "price": 16,
+      "category": "PH",
+      "weight": 1,
+      "description": "Samsung is one of the best manfacturing company.",
+      "id": 3
+    },
+    {
+      "product": "Lenovo K8 Plus",
+      "brand": "Lenovo",
+      "price": 16,
+      "category": "PH",
+      "weight": 1,
+      "description": "Lenovo is electronics accessories manfacturing company.",
+      "id": 4
+    }
+  ]
+}
